@@ -1,2 +1,0 @@
-
-636,1.24e-06, <function A at 0x7b2a8ef2c5e0>,1.5,0.0425,300,1.13e-05,<function q at 0x7b2a8ef2c7c0>,0.17,0.2,

@@ -1,1 +1,6 @@
 .ipynb_checkpoints/
+__pycache__/
+*.mov
+*.mp4
+sim-Copy1.ipynb
+varC1/
